@@ -1,0 +1,33 @@
+Create Database bank_dispatch_system;
+Use bank_dispatch_system;
+
+Create Table user(
+    Cno int Primary Key,
+    Cname varchar(20) Not null,
+    Password varchar(20) Not null,
+    Type varchar(20) Not null,
+    Amount int Not null,
+    Card varchar(20) Not null,
+    IDno varchar(20) Not null,
+    Pno varchar(20) Not null
+);
+
+Create Table admin(
+    Ano int Primary Key,
+    Aname varchar(20) Not null,
+    Password varchar(20) Not null,
+    Sex varchar(20) Not null
+);
+
+Create Table Queue(
+    Qno int Primary Key,
+    Cno int,
+    Userid int,
+    Remark01 varchar(20),
+    Remark02 varchar(20)
+);
+
+insert into user(cno,cname,password,type,amount,card,idno,pno)
+delete from user where cno = ?
+select cno,cname,password,type,amount,card,idno,pno from user where cno = ?
+update user set amount = ?

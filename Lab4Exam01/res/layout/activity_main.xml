@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.example.lab1exam01.MainActivity" 
+    android:background="#222"
+    >
+    
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="第一个数："
+        android:textColor="#fff"
+        android:textSize="20sp" 
+        />
+
+    <EditText
+        android:id="@+id/et1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint=""
+        android:background="#fff"
+        android:layout_toRightOf="@+id/tv1"
+        />
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="第二个数："
+        android:layout_below="@+id/tv1"
+        android:textColor="#fff"
+        android:textSize="20sp" 
+        />
+
+    <EditText
+        android:id="@+id/et2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint=""
+        android:background="#fff"
+        android:layout_below="@+id/tv1"
+        android:layout_toRightOf="@+id/tv2"
+        />
+    
+    <Button 
+        android:id="@+id/bt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv2"
+        android:layout_centerInParent="true"
+        android:text="比较"
+        />
+    <TextView 
+         android:id="@+id/tv3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="较大的数"
+        android:layout_below="@+id/bt1"
+        android:layout_centerInParent="true"
+        android:textColor="#fff"
+        android:textSize="20sp" 
+        />
+</RelativeLayout>

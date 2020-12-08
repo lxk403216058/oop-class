@@ -1,0 +1,9 @@
+create database if not exists empmgr;
+use empmgr;
+create table emp(
+    empno int primary key auto_increment,
+    ename varchar(20) not null,
+    salary decimal(8,2) not null,
+    birthday date,
+    dname varchar(20) not null
+    );

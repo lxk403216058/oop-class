@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab5Exam01</string>
+    <string-array name="background_color">
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>RED</item>
+        <item>BLACK</item>
+        <item>WHITE</item>
+    </string-array>
+    <string-array name="font_size">
+        <item>10sp</item>
+        <item>15sp</item>
+        <item>20sp</item>
+        <item>25sp</item>
+        <item>30sp</item>
+    </string-array>
+    <string-array name="font_color">
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>RED</item>
+        <item>BLACK</item>
+        <item>WHITE</item>
+    </string-array>
+
+</resources>

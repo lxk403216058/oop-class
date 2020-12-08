@@ -1,0 +1,12 @@
+create if not exists database d302;
+use d302;
+create table book(
+        id int primary key auto_increment,
+        title varchar(30) not null,
+        author varchar(30) not null,
+        pblisher varchar(30) not null,
+        pub_date date not null,
+        price decimal(5,1)
+);
+
+select * from book where title like "%µñ%" or author like "_Ó¹" or pblisher like "%¹¤Òµ%"

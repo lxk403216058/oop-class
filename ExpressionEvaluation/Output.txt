@@ -1,0 +1,20 @@
+8*3-5*2=14.0
+ERROR
+#The expression contain empty bracket!
+2+3*(5+6)/4=10.25
+ERROR
+#Bracket mismatch!
+ERROR
+#The expression is empty!
+ERROR
+#The expression contains continuous operational symbol£¡
+ERROR
+#The operator is illegal!
+ERROR
+#The operator is illegal!
+ERROR
+#The operator is illegal!
+ERROR
+#The operator is illegal!
+ERROR
+#The expression contains illegal characters!

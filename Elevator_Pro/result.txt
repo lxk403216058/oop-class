@@ -1,0 +1,205 @@
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
+[FR,1,UP,0］／(1,STILL,1.0) waiting time: 1.0
+[FR,4,UP,2]/(4,UP,3.5) wauting time: 1.5
+[ER,8,1]/(8,UP,6.5)
+[ER,10,3]/(10,UP,8.5)
+乘客的平均等待时间：1.25
